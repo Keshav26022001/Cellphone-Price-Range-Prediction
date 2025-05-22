@@ -38,7 +38,11 @@ vi) XGBoost
 The best model among the all models is Logistic Regression with 95.83% of accuracy and high F1 score (94% - 98%) indicating that the balanced performence of model.
 ### 2) How Model will help to expand the business:
 i) Product Development: Focus on Key Features, Improve RAM, battery life, and display quality (pixel height and width) since customers care about these the most.
+
 ii) Marketing Strategies: Create ads that highlight the strengths in RAM, battery life, and display quality to attract more customers.
+
 iii) Pricing Strategies: Set prices based on how much customers value RAM, battery life, and display quality.Use real-time data to adjust prices and maximize sales and profits.
+
 iv) Customer Satisfaction: Provide products that match what customers want, increasing their satisfaction and loyalty.
+
 v) Market Expansion: Identify new areas where high RAM, battery life, and display quality are important, and target these markets.
