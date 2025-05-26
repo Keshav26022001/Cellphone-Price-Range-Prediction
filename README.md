@@ -8,30 +8,49 @@ wifi ,Bluetooth, Ram etc predict the Price range of the mobile.
 business by stating several factors including feature importance.
 ## Steps involved:
 ### 1) Importing Neccessary libraries and dataset:
-i) Numpy
-ii) Pandas
-iii) seaborn
-iv) matplotlib.pyplot
+i) Numpy 
+
+ii) Pandas 
+
+iii) seaborn 
+
+iv) matplotlib.pyplot 
+
 ### 2) Basic Checks and Data Cleaning:
-i) Checking for the top and bottom entries to get overall look on the data.
-ii) Checking for duplicates
-iii) Checking the data types
-iv) Checking for the null values
+i) Checking for the top and bottom entries to get overall look on the data. 
+
+ii) Checking for duplicates 
+
+iii) Checking the data types 
+
+iv) Checking for the null values 
+
 ### 3) EDA:
-i) Finding the discriptive statistics for the given dataset
-ii) Univariate Analysis through graphical representation
-iii) Bivariate Analysis through graphical representation
+i) Finding the discriptive statistics for the given dataset 
+
+ii) Univariate Analysis through graphical representation 
+
+iii) Bivariate Analysis through graphical representation 
+
 ### 4) Checking for the dependency and multicollinearity using heatmap
 ### 5) Data Preprocessing and Feature Engineering:
-i) Outlier Handling
-ii) Standerdization
+i) Outlier Handling 
+
+ii) Standerdization 
+
 ### 6) Model Implementation:
-i) Logistic Regression
-ii) Decision Tree
-iii) Random Forest
-iv) KNN
-v) SVM
-vi) XGBoost
+i) Logistic Regression 
+
+ii) Decision Tree 
+
+iii) Random Forest 
+
+iv) KNN 
+
+v) SVM 
+
+vi) XGBoost 
+
 ### 7) Saving the best model
 ## Key Findings:
 ### 1) Best Model:
